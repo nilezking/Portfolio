@@ -1,2 +1,2 @@
-# Sharpe Visualization Tool
-Python project for visualising stock's Sharpe ratios
+# Python Tools For Data Analysis
+Python projects for everyday analysis and calcs.
